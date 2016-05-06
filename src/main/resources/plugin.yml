@@ -1,5 +1,5 @@
 name: NoServerMessages
-main: info.romanondracek.noservermessages.Main
+main: cz.romanondracek.noservermessages.Main
 author: Roman3349
-website: http://romanondracek.info/
-version: 0.0.1
+website: http://romanondracek.cz/
+version: 0.0.2
