@@ -1,4 +1,4 @@
-package info.romanondracek.noservermessages;
+package cz.romanondracek.noservermessages;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;
